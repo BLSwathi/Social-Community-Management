@@ -1,5 +1,5 @@
 -- video Database
-
+-- insert
 
 INSERT INTO videos(video_url, post_id, size) VALUE ('https://www.youtube.com/watch?v=1TKJvWbZErY', 1, 1);
 INSERT INTO videos(video_url, post_id, size) VALUE ('https://www.youtube.com/watch?v=dcgeBa78WE8', 2, 8);

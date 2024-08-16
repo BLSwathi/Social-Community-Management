@@ -1,5 +1,5 @@
 -- photo Database
-
+-- data
 
 INSERT INTO photos(photo_url, post_id, size) VALUE ('https://picsum.photos/100', 26, 4);
 INSERT INTO photos(photo_url, post_id, size) VALUE ('https://picsum.photos/101', 27, 1);

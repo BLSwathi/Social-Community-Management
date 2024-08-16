@@ -1,5 +1,5 @@
 -- HASHTAGS DATABASE 
-
+-- insert
 INSERT INTO HASHTAGS(hashtag_name) VALUES (' #joinbtsarmy');
 INSERT INTO HASHTAGS(hashtag_name) VALUES (' #kisaansupport');
 INSERT INTO HASHTAGS(hashtag_name) VALUES (' #fitnessfreak');

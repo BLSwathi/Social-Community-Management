@@ -1,5 +1,5 @@
 -- follows Database
-
+--insertions
 INSERT INTO follows(follower_id, followee_id) VALUES (45, 38);
 INSERT INTO follows(follower_id, followee_id) VALUES (46, 2);
 INSERT INTO follows(follower_id, followee_id) VALUES (21, 9);

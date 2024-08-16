@@ -1,4 +1,5 @@
 -- comment Database
+-- sql commands
 
 
 INSERT INTO COMMENTS(comment_text ,post_id,user_id) VALUES ('great man',26,6);

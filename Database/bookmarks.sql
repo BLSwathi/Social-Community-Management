@@ -1,4 +1,4 @@
-#NAME?
+#NAME
 
 INSERT INTO bookmarks(post_id, user_id) VALUE (8, 6);
 INSERT INTO bookmarks(post_id, user_id) VALUE (92, 40);

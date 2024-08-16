@@ -1,5 +1,5 @@
 -- post_database
-
+-- insert
 
 insert into post (post_id,photo_id,video_id,user_id,caption,location) values
 (1,15,3,24,'HEY!!','VHA JHA KOI AATA JAATA NI'),

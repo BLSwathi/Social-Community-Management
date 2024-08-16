@@ -1,4 +1,4 @@
-
+--insert
 
 insert into hashtag_follow (user_id,hashtag_id) values
 (4,28),

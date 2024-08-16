@@ -1,3 +1,4 @@
+--insert
 INSERT INTO POST_LIKES(user_id,post_id) VALUES (1,41);
 INSERT INTO POST_LIKES(user_id,post_id) VALUES (22,11);
 INSERT INTO POST_LIKES(user_id,post_id) VALUES (38,1);

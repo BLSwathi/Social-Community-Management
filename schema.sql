@@ -1,3 +1,4 @@
+--schema
 DROP database social_media;
 CREATE DATABASE social_media;
 USE social_media;

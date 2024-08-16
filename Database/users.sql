@@ -1,5 +1,5 @@
 -- users
-
+-- insert
 INSERT INTO users(username, profile_photo_url, bio,email) VALUES 
 ("kanavphull","https://pbs.twimg.com/profile_images/1386885117428191232/70SyHOxP_400x400.jpg","Hedonist yet Spiritual || IT at NITJ 2024",'as1mobiles@gmail.com'),
 ('raj gupta' , '/klsadf893724:f//432' , 'soon to be updated','admin@1shopbuy.com'),

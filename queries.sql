@@ -1,4 +1,5 @@
 -- 1. Location of User 
+--user
 SELECT * FROM post
 WHERE location IN ('agra' ,'maharashtra','west bengal');
 

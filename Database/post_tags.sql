@@ -1,5 +1,5 @@
 -- post_tag Database
-
+--insert
 INSERT INTO post_tags(post_id, hashtag_id) VALUE (1, 13);
 INSERT INTO post_tags(post_id, hashtag_id) VALUE (2, 27);
 INSERT INTO post_tags(post_id, hashtag_id) VALUE (3, 20);
